@@ -1,0 +1,11 @@
+# Copyright 2025 HAJJI Amin
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+/images/clear-day.png:ARGB4444
+/images/clear-night.png:ARGB4444
+/images/cloudy.png:ARGB4444
+/images/drizzle.png:ARGB4444
+/images/fog.png:ARGB4444
+/images/rainy.png:ARGB4444
+/images/snowy.png:ARGB4444
+/images/thunderstorm.png:ARGB4444
